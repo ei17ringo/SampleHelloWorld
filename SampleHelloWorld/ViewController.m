@@ -18,7 +18,7 @@
 {
     [super viewDidLoad];
 
-    //文字列変数を使って、画面に文字を表示する
+    //文字列変数を使って、画面に文字を表示するa
     NSString *str;
     str = @"Hello,World.";
     
