@@ -20,7 +20,7 @@
 
     //文字列変数を使って、画面に文字を表示する
     NSString *str;
-    str = @"Hello,Nexseed.";
+    str = @"Hello,World.";
     
     NSInteger num;
     
